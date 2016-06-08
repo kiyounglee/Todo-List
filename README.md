@@ -1,8 +1,5 @@
-# Todo-List
+## React
+- my Boilerplate 만들기 
 
-1. React를 View로 사용하기
-2. React를 Client용으로 만들기
-3. React를 Server용으로 만들기
-
-
-# Responsive Web
+## Responsive Web
+- Responsive Web Design with HTML5 and CSS3
