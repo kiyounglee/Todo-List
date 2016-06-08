@@ -7,6 +7,5 @@
 - Pro React ch.3
 
 ## 2016-06-07
-- Webpack 기본골격 익히기
-- 
+- Webpack 기본골격 익히기- 
 
